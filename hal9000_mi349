@@ -1,7 +1,0 @@
-echo "# hal9000_mi349" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/haotianxie10/hal9000_mi349.git
-git push -u origin master
